@@ -1,0 +1,13 @@
+﻿## Interface: 70200
+## Author: Super999
+## Version: 0.1
+## Title: |cffC495DDRoll |rNumber
+## Title-zhCN: |cffe38eb5Roll |rNumber |cff0055FF核心
+## Title-zhTW: |cffe38eb5Roll |rNumber |cff0055FF核心
+## Notes: Player Roll Number AddOn for World of Warcraft.
+## SavedVariables: 
+## SavedVariablesPerCharacter: 
+## Dependencies: Ace3
+
+Roll_Number.xml
+Roll_Number.lua
